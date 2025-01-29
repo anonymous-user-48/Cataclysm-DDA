@@ -1,0 +1,25 @@
+      {
+        "id": "anzio",
+        "name": { "str_sp": "Anzio 20mm rifle" },
+        "description": "The Anzio 20mm rifle is an American anti-materiel rifle designed and marketed by Tesladyne Industries. It is the first American anti-materiel rifle designed and mass-produced for public sale with a bore diameter in excess of .50 caliber in over xx years. The 20mm round, as fired out of the Anzio rifle, has nearly four times the energy of the .50 BMG"
+      }
+    ],
+    "weight": "27215 g",
+    "volume": "7570 ml",
+    "longest_side": "2000 cm",
+    "barrel_length": "1200 mm",
+    "price": "14 kUSD 833 USD",
+    "price_postapoc": "1000 USD",
+    "to_hit": -1,
+    "material": [ "steel" ],
+    "ammo": [ "20mm" ],
+    "range": 200,
+    "ranged_damage": { "damage_type": "bullet", "amount": -5 },
+    "dispersion": 130,
+    "durability": 8,
+    "min_cycle_recoil": 23625,
+    "default_mods": [ "bipod", "rifle_scope", "muzzle_brake" ],
+    "flags": [ "NEVER_JAMS" ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE_WELL", "item_restriction": [ "20mmbox" ] } ],
+    "melee_damage": { "bash": 14 }
+  },
